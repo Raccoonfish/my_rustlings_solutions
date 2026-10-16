@@ -1,5 +1,4 @@
 # my_rustlings_solutions
-# Rustlings Solutions
 
 My solutions to the exercises from [Rustlings](https://github.com/rust-lang/rustlings), an interactive set of exercises for learning Rust. <br>
 
